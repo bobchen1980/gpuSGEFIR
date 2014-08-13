@@ -1,0 +1,36 @@
+Point:1024, Channel:128 ,Taps:128 
+Gpu total time: 9.613740 (ms), kernel time:0.53ms, 503.841832 (GFLOPS) 
+Cpu exetime:141.00ms,  0.237975 (GFLOPS) 
+
+Point:8192, Channel:128 ,Taps:128 
+Gpu total time: 12.742171 (ms), kernel time:0.33ms, 52734.099084 (GFLOPS) 
+Cpu exetime:1250.00ms,  0.214748 (GFLOPS) 
+
+Point:8192, Channel:64 ,Taps:128 
+Gpu total time: 8.327714 (ms), kernel time:0.35ms, 24631.322796 (GFLOPS) 
+Cpu exetime:625.00ms,  0.214748 (GFLOPS) 
+
+Point:8192, Channel:64 ,Taps:256 
+Gpu total time: 8.796610 (ms), kernel time:0.33ms, 26234.669463 (GFLOPS) 
+Cpu exetime:1172.00ms,  0.229040 (GFLOPS) 
+
+Point:8192, Channel:256 ,Taps:256 
+Gpu total time: 251.208789 (ms), kernel time:241.70ms, 142.159912 (GFLOPS) 
+Cpu exetime:4687.00ms,  0.229089 (GFLOPS) 
+
+Point:8192, Channel:128 ,Taps:256 
+Gpu total time: -3.924830 (ms), kernel time:0.39ms, 43772.261247 (GFLOPS) 
+Cpu exetime:2329.00ms,  0.230516 (GFLOPS) 
+
+Point:8192, Channel:512 ,Taps:256 
+Gpu total time: 516.606171 (ms), kernel time:483.39ms, 142.160434 (GFLOPS) 
+Cpu exetime:9406.00ms,  0.228310 (GFLOPS) 
+
+Point:8192, Channel:1024 ,Taps:256 
+Gpu total time: 1015.000000 (ms), kernel time:961.99ms, 142.870101 (GFLOPS) 
+Cpu exetime:18953.00ms,  0.226611 (GFLOPS) 
+
+Point:8192, Channel:2048 ,Taps:256 
+Gpu total time: 1.#INF00 (ms), kernel time:1.#Jms, 0.000000 (GFLOPS) 
+Cpu exetime:37656.00ms,  0.228116 (GFLOPS) 
+
